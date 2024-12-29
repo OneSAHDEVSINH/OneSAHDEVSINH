@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Final Year Project**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **General Questions**
 
