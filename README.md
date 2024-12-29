@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onesahdevsinh" alt="onesahdevsinh" /></a> </p>
 
-- 🔭 I’m currently working on **Final Year Project based on WhatsApp Business API**
+- 🔭 I’m currently working on **Final Year Project**
 
 - 🌱 I’m currently learning **React.js**
 
